@@ -1,5 +1,7 @@
 # 第一部分：进入面向对象的世界
 
+<!-- ch 1~9 -->
+
 Enter into the World of OOP
 
 本节的亮点:

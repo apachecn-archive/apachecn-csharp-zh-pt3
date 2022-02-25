@@ -1,5 +1,7 @@
 # 第二部分：熟悉一些高级概念
 
+<!-- ch 10~14 -->
+
 Get Familiar with Some Advanced Concepts
 
 本节的亮点:
