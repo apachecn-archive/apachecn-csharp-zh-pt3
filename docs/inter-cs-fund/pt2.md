@@ -1,5 +1,4 @@
-# 第二部分
-熟悉一些高级概念
+# 第二部分：熟悉一些高级概念
 
 Get Familiar with Some Advanced Concepts
 

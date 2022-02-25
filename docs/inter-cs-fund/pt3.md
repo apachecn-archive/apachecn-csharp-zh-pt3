@@ -1,5 +1,4 @@
-# 第三部分
-成为现实世界中的英雄
+# 第三部分：成为现实世界中的英雄
 
 Become a Hero in the Real World
 
